@@ -1,5 +1,10 @@
 ### Hi there 👋 My name is Orla!
 
+<h2 align="center">Hey! My name is Orla Madden. 👋🤓</h2>
+<p align="center">I'm a Graphic Designer, Full-Stack Developer, and UX Product Designer from Ireland.
+
+<h4 align="center">Stay cool!</h4>
+
 ![Orla's github stats](https://github-readme-stats.vercel.app/api?username=orlamadden&show_icons=true&theme=synthwave)
 
 <!--
