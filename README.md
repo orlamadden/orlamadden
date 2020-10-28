@@ -1,5 +1,5 @@
 <h2 align="center">Hey! My name is Orla Madden. 👋🤓</h2>
-<p align="center">I'm a Graphic Designer and UX Product Designer from Ireland. Recently completed a diploma in Full Stack Software Development. Looking to dive into the world of Data Science. Welcome to my profile where you will find a bunch of stuff that I like to build and neglect.
+<p align="center">I'm a UX Product Designer from Ireland. Recently completed a diploma in Full Stack Software Development. Looking to dive into the world of Data Science. Welcome to my profile where you will find a bunch of stuff that I like to build and neglect.
 
 <h3 align="center">Stay cool!</h3>
 
