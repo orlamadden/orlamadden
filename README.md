@@ -5,6 +5,8 @@
 
 ![Orla's github stats](https://github-readme-stats.vercel.app/api?username=orlamadden&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlamadden)](https://github.com/orlamadden/github-readme-stats)
+
 <!--
 **orlamadden/orlamadden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
