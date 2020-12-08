@@ -1,11 +1,12 @@
 <h2 align="center">Hey! My name is Orla Madden. 👋🤓</h2>
-<p align="center">I'm a UX Product Designer from Ireland. Recently completed a diploma in Full Stack Software Development. Looking to dive into the world of Data Science. Welcome to my profile where you will find a bunch of stuff that I like to build and neglect.
+<p align="center">I'm a UX Product Designer from Ireland. Recently completed a diploma in Full Stack Software Development. Welcome to my profile where you will find a bunch of stuff that I like to build and neglect.
+
+🌱 I’m currently learning Python, R and D3.js  
+🔭 I’m currently working on building some small Data Visualization projects
 
 <h3 align="center">Stay cool!</h3>
 
-![Orla's github stats](https://github-readme-stats.vercel.app/api?username=orlamadden&show_icons=true&theme=synthwave)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlamadden&layout=compact&theme=synthwave)](https://github.com/orlamadden/github-readme-stats)
+![Orla's github stats](https://github-readme-stats.vercel.app/api?username=orlamadden&show_icons=true&theme=slateorange) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlamadden&layout=compact&theme=slateorange)](https://github.com/orlamadden/github-readme-stats)
 
 <!--
 **orlamadden/orlamadden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
