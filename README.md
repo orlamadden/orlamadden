@@ -1,7 +1,7 @@
 <h2 align="center">Hey! My name is Orla Madden. 👋🤓</h2>
 <p>I'm a UX Product Designer from Ireland. Recently completed a diploma in Full Stack Software Development. Welcome to my profile where you will find a bunch of stuff that I like to build and neglect.</p>
 
-🌱 I’m currently learning Python, R and Sass.  
+🌱 I’m currently learning Python, R, Sass, Eleventy and Nunjucks.  
 🔭 I’m currently working on building some small Data Visualization projects
 
 <h3 align="center">Stay cool!</h3>
