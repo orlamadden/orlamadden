@@ -1,8 +1,8 @@
 <h2 align="center">Hey! My name is Orla Madden. 👋🤓</h2>
-<p>I'm a Senior UX Designer from Ireland. Currently pursuing a Masters in Data Science and Analysis. Welcome to my profile where you will find a bunch of stuff that I like to build and neglect.</p>
+<p>I'm a Senior Product Designer from Ireland. Currently finsihed my Masters in Data Science and Analysis. Welcome to my profile where you will find a bunch of stuff that I like to build and neglect.</p>
 
 🌱 I’m currently learning Python and R.  
-🔭 I’m currently doing an MSc. in Data Science and Analysis.
+🔭 I’m currently messing around with Machine Learning ideas.
 
 <h3 align="center">Stay cool!</h3>
 
